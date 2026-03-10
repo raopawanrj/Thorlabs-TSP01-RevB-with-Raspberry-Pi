@@ -1,4 +1,4 @@
-Steps to setup the Raspberry pi
+#Steps to setup the Raspberry pi
 
 1.Update the system
 
